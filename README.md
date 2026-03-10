@@ -1,3 +1,1 @@
 # industrial-predictive-maintenance-analytics
-
-
